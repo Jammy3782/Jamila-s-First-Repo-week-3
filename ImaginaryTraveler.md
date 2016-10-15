@@ -1,4 +1,4 @@
-## Header Two; Imaginary Traveler
+## Imaginary Traveler
 
 _Cloud that I float on, carry me to Peru
 send to me exotic birds, bearing gifts of aqua blue_

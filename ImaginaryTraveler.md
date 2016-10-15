@@ -1,7 +1,7 @@
-# Header One Imaginary Traveler
+(# Header One) Imaginary Traveler
 
 _Cloud that I float on, carry me to Peru
-send to me exotic birds, bearing gifts of aqua blue
+send to me exotic birds, bearing gifts of aqua blue_
 
 _Lets take a detour through the mountains of Kandahar 
 for it doesn't bother me if I come out with battle scars
